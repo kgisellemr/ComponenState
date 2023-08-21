@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  padding: 50px;
+  background: rgb(34, 193, 195);
+  background: radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(194, 253, 45, 1) 100%);
+}
+
+.register-container {
+  background-color: #ffffff;
+  border: 1px solid #d3d3d3;
+  border-radius: 15px;
+  padding: 20px;
+  min-width: 400px
+}
+
+.btn {
+  width: 100%;
+}
+
+.register-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.fa-brands {
+  font-size: 30px;
+}
+
+.social-icon-item {
+  border: 1px solid black;
+  border-radius: 45%;
+  padding: 10px;
+}
+
+.icon-social-media {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 80px;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  margin-bottom: 20px;
+  text-align: center;
+}
